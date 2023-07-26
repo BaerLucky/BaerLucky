@@ -1,8 +1,11 @@
 # Welcome :wave:, to my profile
 
-<p align="center" display="inline-block">
+<p align="center" display="inline">
+
 ![Gif image of the hard life of a programmer](./images/hardLife.gif)
+
 ![Frazzled Programmer](./images/Programming.gif)
+
 </p>
 
 ## About Me
