@@ -2,9 +2,9 @@
 
 <p align="center" display="inline">
 
-![Gif image of the hard life of a programmer](images/hardLife.gif)
+![Gif image of the hard life of a programmer](/images/hardLife.gif)
 
-![Frazzled Programmer](images/Programming.gif)
+![Frazzled Programmer](/images/Programming.gif)
 
 </p>
 
