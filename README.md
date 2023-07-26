@@ -1,6 +1,6 @@
 # Welcome :wave:, to my profile
 
-<p align="center" display="inline">
+<p align="center">
 
 ![Gif image of the hard life of a programmer](./images/hardLife.gif)
 
