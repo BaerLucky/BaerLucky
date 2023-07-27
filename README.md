@@ -3,7 +3,7 @@
 ![Hard Life of a Programmer](./images/hardLife.gif)  
 ![Frazzled Programmer](./images/Programming.gif)
 
-**## About Me
+## About Me
 
 THIS IS A WORK IN PROGRESS
 
