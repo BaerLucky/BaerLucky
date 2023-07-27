@@ -1,8 +1,10 @@
 # Welcome :wave:, to my profile
 
-![Gif image of the hard life of a programmer](images/hardLife.gif)
+<p align="center">
+  <img width="100" height="100" src="./images/hardLife.gif" />
+</p>
 
-![Frazzled Programmer](images/Programming.gif)
+![Frazzled Programmer](./images/Programming.gif)
 
 ## About Me
 
