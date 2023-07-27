@@ -11,6 +11,10 @@ THIS IS A WORK IN PROGRESS
 
 THIS IS A WORK IN PROGRESS
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaerLucky&theme=highcontrast&show)
+---
 
-![Statistics Card](https://github-readme-stats.vercel.app/api/stats/?username=BaerLucky&theme=highcontrast&show)
+### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
