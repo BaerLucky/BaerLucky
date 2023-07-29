@@ -23,6 +23,20 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 
 :warning: UNDER CONSTRUCTION! :construction:
 
+![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
+![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
+| RANK | CATERGORY |
+|------|-----------|
+| 1    | Coding    |
+| 2    | Review    |
+| 3    | Meetings  |
+
+### NOW LEARNING
+
+JavaScript
+
 ---
 
 ### :fire: My Stats
