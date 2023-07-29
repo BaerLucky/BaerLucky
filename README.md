@@ -21,11 +21,9 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 <!-- Update Tech Skills as they increase!!! -->
 ## :computer: Tech Skills
 
-:warning: UNDER CONSTRUCTION! :construction:
-
-![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
-![Alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg>)
+![CSS3](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg>)
+![JavaScript](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>)
 
 | RANK | CATERGORY |
 |------|-----------|
