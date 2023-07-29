@@ -2,6 +2,7 @@
 
 ![hardLife](https://github.com/BaerLucky/BaerLucky/assets/130244853/9e7e3878-2c8f-42de-8dc1-314da01fca48)
 ![Programming](https://github.com/BaerLucky/BaerLucky/assets/130244853/ac54e7bb-3397-4ea4-8cbe-d80e20f0ad05)
+![eatSleepCodeRepeat](./images/eatSleepCodeRepeat.gif)
 
 ---
 
