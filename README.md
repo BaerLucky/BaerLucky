@@ -24,14 +24,16 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 ## :computer: Tech Skills
 
 CODECADEMY:
-*HTML - Certificate of completion
-*CSS - Certificate of completion
-*Beginning JavaScript - Certificate of completion
 
-FreeCodeCamp.org:
-*HTML - Certificate of completion
-*CSS - Certificate of completion
-*JavaScript - Work in Progress
+- HTML Certificate of completion
+- CSS Certificate of completion
+- Beginning JavaScript Certificate of completion
+
+FREECODECAMP.org:
+
+- HTML Certificate of completion
+- CSS Certificate of completion
+- JavaScript Work in Progress
 
 | RANK | CATERGORY |
 |------|-----------|
