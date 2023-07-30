@@ -19,11 +19,19 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 
 ---
 <!-- Update Tech Skills as they increase!!! -->
+<!-- Learn to add Programming Language icons (Markdown) -->
+<!-- Learn to center table data in cells (Markdown) -->
 ## :computer: Tech Skills
 
-![HTML5](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg>)
-![CSS3](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg>)
-![JavaScript](width="100" height="100" <https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>)
+CODECADEMY:
+*HTML - Certificate of completion
+*CSS - Certificate of completion
+*Beginning JavaScript - Certificate of completion
+
+FreeCodeCamp.org:
+*HTML - Certificate of completion
+*CSS - Certificate of completion
+*JavaScript - Work in Progress
 
 | RANK | CATERGORY |
 |------|-----------|
