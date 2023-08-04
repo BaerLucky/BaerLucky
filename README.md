@@ -1,6 +1,5 @@
 # Welcome :wave:, to my profile  
 
-![Programming](https://github.com/BaerLucky/BaerLucky/assets/130244853/ac54e7bb-3397-4ea4-8cbe-d80e20f0ad05)
 ![eatSleepCodeRepeat](https://github.com/BaerLucky/BaerLucky/assets/130244853/90035073-5271-4ad5-87dc-fceb368c5bd2)
 
 ---
