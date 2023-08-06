@@ -1,6 +1,6 @@
 # Welcome :wave:, to my profile  
 
-![eatSleepCodeRepeat align="center"](https://github.com/BaerLucky/BaerLucky/assets/130244853/90035073-5271-4ad5-87dc-fceb368c5bd2)
+![eatSleepCodeRepeat style="align: center;"](https://github.com/BaerLucky/BaerLucky/assets/130244853/90035073-5271-4ad5-87dc-fceb368c5bd2)
 
 ---
 
@@ -22,11 +22,11 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 <!-- Learn to center table data in cells (Markdown) -->
 ## :computer: Tech Skills
 
-CODECADEMY:
+CODECADEMY.com:
 
 - HTML - Certificate of completion
 - CSS - Certificate of completion
-- Beginning JavaScript - Certificate of completion
+- JavaScript Parts 1 & 2 - Certificate of completion
 
 FREECODECAMP.org:
 
@@ -42,7 +42,7 @@ FREECODECAMP.org:
 
 ### NOW LEARNING
 
-JavaScript
+1. JavaScript
 
 ---
 
