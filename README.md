@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-![Company Logo](./resources/media/images/companyLogo.png "Company Logo")
+![Company Logo](./images/companyLogo.png "Company Logo")
 
 </div>
 
