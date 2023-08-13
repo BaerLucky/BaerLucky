@@ -1,6 +1,10 @@
 # Welcome :wave:, to my profile  
 
-![eatSleepCodeRepeat](https://github.com/BaerLucky/BaerLucky/assets/130244853/90035073-5271-4ad5-87dc-fceb368c5bd2)
+<div style="text-align: center;">
+
+![Company Logo](./resources/media/images/companyLogo.png "Company Logo")
+
+</div>
 
 ---
 
@@ -19,7 +23,6 @@ Hello, my name is Brian, How's it going? I was a floorcovering installer for mos
 ---
 <!-- Update Tech Skills as they increase!!! -->
 <!-- Learn to add Programming Language icons (Markdown) -->
-<!-- Learn to center table data in cells (Markdown) -->
 ## :computer: Tech Skills
 
 CODECADEMY.com:
@@ -35,7 +38,7 @@ FREECODECAMP.org:
 - JavaScript - Work in Progress
 
 | RANK | CATERGORY |
-|------|-----------|
+|:----:|:---------:|
 | 1    | Coding    |
 | 2    | Review    |
 | 3    | Meetings  |
