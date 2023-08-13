@@ -1,10 +1,13 @@
 # Welcome :wave:, to my profile  
 
-<div style="text-align: center;">
-
-![Company Logo](./images/companyLogo.png "Company Logo")
-
-</div>
+<img
+    style="display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="images/companyLogo.png  "Company Logo""
+    alt="Company Logo">
+</img>
 
 ---
 
