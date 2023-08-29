@@ -1,6 +1,6 @@
 # Welcome :wave:, to my profile  
 
-<img "margin: 0 auto;">
+<img style "margin: 0 auto;">
 
 ![Company Logo](./resources/media/images/companyLogo.png "Company Logo")  
 :copyright: _2022-Present | BaerLucky_
