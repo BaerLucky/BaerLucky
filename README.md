@@ -1,7 +1,7 @@
 # Welcome :wave:, to my profile  
 
 <div style= text-align: center;>
-![Company Logo](./resources/media/images/companyLogo.png "Company Logo")  
+![Company Logo](./resources/media/images/companyLogo.png {Company Logo})  
 :copyright: _2022-Present | BaerLucky_
 </div>
 
