@@ -3,8 +3,6 @@
 ![Company Logo](./resources/media/images/companyLogo.png "Company Logo")  
 :copyright: _2022-Present | BaerLucky_
 
-<img src="./resources/media/images/companyLogo.png" margin=auto (allowed_elements) />
-
 ---
 
 ## :speak_no_evil: About Me
